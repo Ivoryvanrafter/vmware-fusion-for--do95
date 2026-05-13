@@ -1,4 +1,4 @@
-
+rare VMware Fusion for macOS Helper | startup-manager + scripting-support offers the most advanced VMware Fusion for macOS helper, with startup-manager and scripting-support.
 
 
 
